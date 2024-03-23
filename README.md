@@ -1,4 +1,4 @@
-REDIS for WINDOWS
+Redis for WINDOWS
 
 STEPS:
 1. For Windows, first we need to install WSL2 (Windows Subsystem for Linux)
